@@ -1,1 +1,9 @@
-
+body {
+  background-image: image-set("https://wallpaperaccess.com/full/1203446.png");
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  margin: 0px;
+  font-family: "Yu Gothic UI", sans-serif; 
+}
